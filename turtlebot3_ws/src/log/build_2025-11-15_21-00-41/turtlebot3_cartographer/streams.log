@@ -1,0 +1,26 @@
+[0.071s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake --build /home/cardaver/turtlebot3_ws/src/build/turtlebot3_cartographer -- -j16 -l16
+[1.279s] Invoked command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake --build /home/cardaver/turtlebot3_ws/src/build/turtlebot3_cartographer -- -j16 -l16
+[1.281s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake --install /home/cardaver/turtlebot3_ws/src/build/turtlebot3_cartographer
+[1.788s] -- Install configuration: ""
+[1.789s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config
+[1.789s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[1.789s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch
+[1.789s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[1.789s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[1.789s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz
+[1.790s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[1.790s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[1.790s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[1.790s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[1.790s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[1.790s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[1.791s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[1.791s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[1.791s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[1.791s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[1.791s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[1.792s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[1.792s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[1.792s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[1.792s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[1.792s] -- Installing: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml

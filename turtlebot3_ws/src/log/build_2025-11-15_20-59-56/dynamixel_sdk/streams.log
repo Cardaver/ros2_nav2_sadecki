@@ -1,0 +1,18 @@
+[0.070s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/dynamixel_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake /home/cardaver/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/cardaver/turtlebot3_ws/src/install/dynamixel_sdk
+[1.057s] -- The C compiler identification is GNU 13.3.0
+[1.058s] -- The CXX compiler identification is GNU 13.3.0
+[1.058s] -- Detecting C compiler ABI info
+[1.058s] -- Detecting C compiler ABI info - done
+[1.058s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.058s] -- Detecting C compile features
+[1.058s] -- Detecting C compile features - done
+[1.058s] -- Detecting CXX compiler ABI info
+[1.059s] -- Detecting CXX compiler ABI info - done
+[1.059s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.059s] -- Detecting CXX compile features
+[1.059s] -- Detecting CXX compile features - done
+[1.059s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.059s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.593s] -- Configuring done (1.5s)
+[1.600s] -- Generating done (0.0s)
+[1.603s] -- Build files have been written to: /home/cardaver/turtlebot3_ws/src/build/dynamixel_sdk

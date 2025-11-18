@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating moving_nodes.egg-info
+writing moving_nodes.egg-info/PKG-INFO
+writing dependency_links to moving_nodes.egg-info/dependency_links.txt
+writing entry points to moving_nodes.egg-info/entry_points.txt
+writing requirements to moving_nodes.egg-info/requires.txt
+writing top-level names to moving_nodes.egg-info/top_level.txt
+writing manifest file 'moving_nodes.egg-info/SOURCES.txt'
+reading manifest file 'moving_nodes.egg-info/SOURCES.txt'
+writing manifest file 'moving_nodes.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/python3.12/site-packages/moving-nodes.egg-link (link to .)
+Installing circle script to /home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/moving_nodes
+Installing spiral script to /home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/moving_nodes
+Installing square script to /home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/moving_nodes
+
+Installed /home/cardaver/turtlebot3_ws/src/build/moving_nodes
+running symlink_data
+creating /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/ament_index
+creating /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/ament_index/resource_index
+creating /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/ament_index/resource_index/packages
+symbolically linking /home/cardaver/turtlebot3_ws/src/build/moving_nodes/resource/moving_nodes -> /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/ament_index/resource_index/packages
+symbolically linking /home/cardaver/turtlebot3_ws/src/build/moving_nodes/package.xml -> /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/moving_nodes

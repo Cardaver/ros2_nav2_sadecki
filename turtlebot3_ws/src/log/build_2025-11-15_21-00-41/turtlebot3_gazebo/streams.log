@@ -1,0 +1,13 @@
+[0.068s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake --build /home/cardaver/turtlebot3_ws/src/build/turtlebot3_gazebo -- -j16 -l16
+[1.253s] [ 12%] [32mBuilding CXX object CMakeFiles/obstacle1.dir/src/obstacle1.cpp.o[0m
+[1.253s] [ 25%] [32mBuilding CXX object CMakeFiles/obstacle2.dir/src/obstacle2.cpp.o[0m
+[1.253s] [ 37%] [32mBuilding CXX object CMakeFiles/turtlebot3_drive.dir/src/turtlebot3_drive.cpp.o[0m
+[1.253s] [ 50%] [32mBuilding CXX object CMakeFiles/obstacles.dir/src/obstacles.cpp.o[0m
+[4.327s] [ 62%] [32m[1mLinking CXX shared library libobstacle2.so[0m
+[4.653s] [ 62%] Built target obstacle2
+[5.003s] [ 75%] [32m[1mLinking CXX shared library libobstacle1.so[0m
+[5.340s] [ 75%] Built target obstacle1
+[5.702s] [ 87%] [32m[1mLinking CXX shared library libobstacles.so[0m
+[6.367s] [ 87%] Built target obstacles
+[16.861s] [100%] [32m[1mLinking CXX executable turtlebot3_drive[0m
+[17.443s] [100%] Built target turtlebot3_drive

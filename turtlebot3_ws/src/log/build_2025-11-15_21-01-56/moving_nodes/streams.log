@@ -1,0 +1,26 @@
+[3.114s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/moving_nodes': PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] PYTHONPATH=/home/cardaver/turtlebot3_ws/src/build/moving_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cardaver/turtlebot3_ws/src/build/moving_nodes/build --no-deps symlink_data
+[3.867s] running develop
+[4.331s] running egg_info
+[4.331s] creating moving_nodes.egg-info
+[4.379s] writing moving_nodes.egg-info/PKG-INFO
+[4.379s] writing dependency_links to moving_nodes.egg-info/dependency_links.txt
+[4.380s] writing entry points to moving_nodes.egg-info/entry_points.txt
+[4.380s] writing requirements to moving_nodes.egg-info/requires.txt
+[4.380s] writing top-level names to moving_nodes.egg-info/top_level.txt
+[4.381s] writing manifest file 'moving_nodes.egg-info/SOURCES.txt'
+[4.479s] reading manifest file 'moving_nodes.egg-info/SOURCES.txt'
+[4.481s] writing manifest file 'moving_nodes.egg-info/SOURCES.txt'
+[4.529s] running build_ext
+[4.529s] Creating /home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/python3.12/site-packages/moving-nodes.egg-link (link to .)
+[4.530s] Installing circle script to /home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/moving_nodes
+[4.530s] Installing spiral script to /home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/moving_nodes
+[4.531s] Installing square script to /home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/moving_nodes
+[4.531s] 
+[4.531s] Installed /home/cardaver/turtlebot3_ws/src/build/moving_nodes
+[4.531s] running symlink_data
+[4.532s] creating /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/ament_index
+[4.532s] creating /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/ament_index/resource_index
+[4.532s] creating /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/ament_index/resource_index/packages
+[4.532s] symbolically linking /home/cardaver/turtlebot3_ws/src/build/moving_nodes/resource/moving_nodes -> /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/ament_index/resource_index/packages
+[4.532s] symbolically linking /home/cardaver/turtlebot3_ws/src/build/moving_nodes/package.xml -> /home/cardaver/turtlebot3_ws/src/install/moving_nodes/share/moving_nodes
+[4.599s] Invoked command in '/home/cardaver/turtlebot3_ws/src/build/moving_nodes' returned '0': PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] PYTHONPATH=/home/cardaver/turtlebot3_ws/src/build/moving_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cardaver/turtlebot3_ws/src/install/moving_nodes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cardaver/turtlebot3_ws/src/build/moving_nodes/build --no-deps symlink_data

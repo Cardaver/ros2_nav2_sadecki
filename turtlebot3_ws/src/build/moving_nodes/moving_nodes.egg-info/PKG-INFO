@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: moving-nodes
+Version: 0.0.0
+Summary: Simple tracks.
+Maintainer: cardaver
+Maintainer-email: 278317@student.pwr.edu.pl
+License: Apache-2.0
+Provides-Extra: test

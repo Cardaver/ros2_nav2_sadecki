@@ -1,0 +1,19 @@
+[0.070s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake /home/cardaver/turtlebot3_ws/src/turtlebot3/turtlebot3_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2
+[0.965s] -- The C compiler identification is GNU 13.3.0
+[0.965s] -- The CXX compiler identification is GNU 13.3.0
+[0.965s] -- Detecting C compiler ABI info
+[0.965s] -- Detecting C compiler ABI info - done
+[0.965s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.966s] -- Detecting C compile features
+[0.966s] -- Detecting C compile features - done
+[0.966s] -- Detecting CXX compiler ABI info
+[0.966s] -- Detecting CXX compiler ABI info - done
+[0.966s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.966s] -- Detecting CXX compile features
+[0.966s] -- Detecting CXX compile features - done
+[0.966s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.023s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.148s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.438s] -- Configuring done (1.4s)
+[1.444s] -- Generating done (0.0s)
+[1.446s] -- Build files have been written to: /home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2

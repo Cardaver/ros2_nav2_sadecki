@@ -1,0 +1,2 @@
+[console_scripts]
+node_wiel = wielokaty.symulacja:main

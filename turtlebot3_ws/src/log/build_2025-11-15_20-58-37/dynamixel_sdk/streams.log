@@ -1,0 +1,6 @@
+[0.096s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/dynamixel_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake /home/cardaver/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/cardaver/turtlebot3_ws/src/install/dynamixel_sdk
+[1.108s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.108s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.108s] -- Configuring done (0.8s)
+[1.108s] -- Generating done (0.0s)
+[1.109s] -- Build files have been written to: /home/cardaver/turtlebot3_ws/src/build/dynamixel_sdk

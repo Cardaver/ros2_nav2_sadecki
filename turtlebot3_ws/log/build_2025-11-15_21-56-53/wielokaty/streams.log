@@ -1,0 +1,25 @@
+[0.560s] Invoking command in '/home/cardaver/turtlebot3_ws/src/wielokaty': PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] PYTHONPATH=/home/cardaver/turtlebot3_ws/build/wielokaty/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/wielokaty build --build-base /home/cardaver/turtlebot3_ws/build/wielokaty/build install --record /home/cardaver/turtlebot3_ws/build/wielokaty/install.log --single-version-externally-managed install_data
+[0.739s] running egg_info
+[0.751s] writing ../../build/wielokaty/wielokaty.egg-info/PKG-INFO
+[0.751s] writing dependency_links to ../../build/wielokaty/wielokaty.egg-info/dependency_links.txt
+[0.752s] writing entry points to ../../build/wielokaty/wielokaty.egg-info/entry_points.txt
+[0.752s] writing requirements to ../../build/wielokaty/wielokaty.egg-info/requires.txt
+[0.752s] writing top-level names to ../../build/wielokaty/wielokaty.egg-info/top_level.txt
+[0.776s] reading manifest file '../../build/wielokaty/wielokaty.egg-info/SOURCES.txt'
+[0.776s] writing manifest file '../../build/wielokaty/wielokaty.egg-info/SOURCES.txt'
+[0.777s] running build
+[0.777s] running build_py
+[0.777s] copying wielokaty/symulacja.py -> /home/cardaver/turtlebot3_ws/build/wielokaty/build/lib/wielokaty
+[0.777s] running install
+[0.781s] running install_lib
+[0.793s] copying /home/cardaver/turtlebot3_ws/build/wielokaty/build/lib/wielokaty/symulacja.py -> /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty
+[0.794s] byte-compiling /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty/symulacja.py to symulacja.cpython-312.pyc
+[0.795s] running install_data
+[0.795s] copying package.xml -> /home/cardaver/turtlebot3_ws/install/wielokaty/share/wielokaty
+[0.795s] running install_egg_info
+[0.809s] removing '/home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty-0.0.0-py3.12.egg-info' (and everything under it)
+[0.809s] Copying ../../build/wielokaty/wielokaty.egg-info to /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty-0.0.0-py3.12.egg-info
+[0.809s] running install_scripts
+[0.897s] Installing wiel script to /home/cardaver/turtlebot3_ws/install/wielokaty/lib/wielokaty
+[0.897s] writing list of installed files to '/home/cardaver/turtlebot3_ws/build/wielokaty/install.log'
+[0.915s] Invoked command in '/home/cardaver/turtlebot3_ws/src/wielokaty' returned '0': PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] PYTHONPATH=/home/cardaver/turtlebot3_ws/build/wielokaty/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/wielokaty build --build-base /home/cardaver/turtlebot3_ws/build/wielokaty/build install --record /home/cardaver/turtlebot3_ws/build/wielokaty/install.log --single-version-externally-managed install_data

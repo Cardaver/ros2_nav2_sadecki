@@ -1,0 +1,2 @@
+[console_scripts]
+wiel = wielokaty.symulacja:main

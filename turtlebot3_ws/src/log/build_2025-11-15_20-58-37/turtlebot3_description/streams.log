@@ -1,0 +1,8 @@
+[0.098s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake /home/cardaver/turtlebot3_ws/src/turtlebot3/turtlebot3_description -DCMAKE_INSTALL_PREFIX=/home/cardaver/turtlebot3_ws/src/install/turtlebot3_description
+[1.103s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.103s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.104s] -- Found urdf: 2.10.0 (/opt/ros/jazzy/share/urdf/cmake)
+[1.105s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[1.105s] -- Configuring done (0.7s)
+[1.105s] -- Generating done (0.0s)
+[1.105s] -- Build files have been written to: /home/cardaver/turtlebot3_ws/src/build/turtlebot3_description

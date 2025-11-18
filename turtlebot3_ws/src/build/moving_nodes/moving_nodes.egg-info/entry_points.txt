@@ -1,0 +1,4 @@
+[console_scripts]
+circle = moving_nodes.circle:main
+spiral = moving_nodes.spiral:main
+square = moving_nodes.square:main

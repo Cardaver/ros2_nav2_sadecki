@@ -1,0 +1,19 @@
+[0.600s] Invoking command in '/home/cardaver/turtlebot3_ws/build/wielokaty': PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] PYTHONPATH=/home/cardaver/turtlebot3_ws/build/wielokaty/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cardaver/turtlebot3_ws/build/wielokaty/build --no-deps symlink_data --force
+[0.821s] running develop
+[0.945s] running egg_info
+[0.957s] writing wielokaty.egg-info/PKG-INFO
+[0.957s] writing dependency_links to wielokaty.egg-info/dependency_links.txt
+[0.957s] writing entry points to wielokaty.egg-info/entry_points.txt
+[0.957s] writing requirements to wielokaty.egg-info/requires.txt
+[0.958s] writing top-level names to wielokaty.egg-info/top_level.txt
+[0.982s] reading manifest file 'wielokaty.egg-info/SOURCES.txt'
+[0.982s] writing manifest file 'wielokaty.egg-info/SOURCES.txt'
+[0.995s] running build_ext
+[0.995s] Creating /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty.egg-link (link to .)
+[0.995s] Installing node_wiel script to /home/cardaver/turtlebot3_ws/install/wielokaty/lib/wielokaty
+[0.995s] 
+[0.995s] Installed /home/cardaver/turtlebot3_ws/build/wielokaty
+[0.996s] running symlink_data
+[0.996s] symbolically linking /home/cardaver/turtlebot3_ws/build/wielokaty/resource/wielokaty -> /home/cardaver/turtlebot3_ws/install/wielokaty/share/ament_index/resource_index/packages
+[0.996s] symbolically linking /home/cardaver/turtlebot3_ws/build/wielokaty/package.xml -> /home/cardaver/turtlebot3_ws/install/wielokaty/share/wielokaty
+[1.017s] Invoked command in '/home/cardaver/turtlebot3_ws/build/wielokaty' returned '0': PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] PYTHONPATH=/home/cardaver/turtlebot3_ws/build/wielokaty/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cardaver/turtlebot3_ws/build/wielokaty/build --no-deps symlink_data --force

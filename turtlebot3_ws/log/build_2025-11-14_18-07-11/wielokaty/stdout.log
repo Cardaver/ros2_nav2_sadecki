@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/wielokaty/wielokaty.egg-info
+writing ../../build/wielokaty/wielokaty.egg-info/PKG-INFO
+writing dependency_links to ../../build/wielokaty/wielokaty.egg-info/dependency_links.txt
+writing entry points to ../../build/wielokaty/wielokaty.egg-info/entry_points.txt
+writing requirements to ../../build/wielokaty/wielokaty.egg-info/requires.txt
+writing top-level names to ../../build/wielokaty/wielokaty.egg-info/top_level.txt
+writing manifest file '../../build/wielokaty/wielokaty.egg-info/SOURCES.txt'
+reading manifest file '../../build/wielokaty/wielokaty.egg-info/SOURCES.txt'
+writing manifest file '../../build/wielokaty/wielokaty.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/cardaver/turtlebot3_ws/build/wielokaty/build
+creating /home/cardaver/turtlebot3_ws/build/wielokaty/build/lib
+creating /home/cardaver/turtlebot3_ws/build/wielokaty/build/lib/wielokaty
+copying wielokaty/__init__.py -> /home/cardaver/turtlebot3_ws/build/wielokaty/build/lib/wielokaty
+copying wielokaty/symulacja.py -> /home/cardaver/turtlebot3_ws/build/wielokaty/build/lib/wielokaty
+running install
+running install_lib
+creating /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty
+copying /home/cardaver/turtlebot3_ws/build/wielokaty/build/lib/wielokaty/__init__.py -> /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty
+copying /home/cardaver/turtlebot3_ws/build/wielokaty/build/lib/wielokaty/symulacja.py -> /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty
+byte-compiling /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty/symulacja.py to symulacja.cpython-312.pyc
+running install_data
+creating /home/cardaver/turtlebot3_ws/install/wielokaty/share/ament_index
+creating /home/cardaver/turtlebot3_ws/install/wielokaty/share/ament_index/resource_index
+creating /home/cardaver/turtlebot3_ws/install/wielokaty/share/ament_index/resource_index/packages
+copying resource/wielokaty -> /home/cardaver/turtlebot3_ws/install/wielokaty/share/ament_index/resource_index/packages
+copying package.xml -> /home/cardaver/turtlebot3_ws/install/wielokaty/share/wielokaty
+running install_egg_info
+Copying ../../build/wielokaty/wielokaty.egg-info to /home/cardaver/turtlebot3_ws/install/wielokaty/lib/python3.12/site-packages/wielokaty-0.0.0-py3.12.egg-info
+running install_scripts
+Installing wiel script to /home/cardaver/turtlebot3_ws/install/wielokaty/lib/wielokaty
+writing list of installed files to '/home/cardaver/turtlebot3_ws/build/wielokaty/install.log'

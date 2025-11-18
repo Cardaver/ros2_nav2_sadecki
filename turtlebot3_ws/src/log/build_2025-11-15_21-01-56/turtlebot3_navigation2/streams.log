@@ -1,0 +1,53 @@
+[0.081s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake /home/cardaver/turtlebot3_ws/src/turtlebot3/turtlebot3_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2
+[1.005s] -- The C compiler identification is GNU 13.3.0
+[1.005s] -- The CXX compiler identification is GNU 13.3.0
+[1.006s] -- Detecting C compiler ABI info
+[1.006s] -- Detecting C compiler ABI info - done
+[1.006s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.006s] -- Detecting C compile features
+[1.006s] -- Detecting C compile features - done
+[1.006s] -- Detecting CXX compiler ABI info
+[1.006s] -- Detecting CXX compiler ABI info - done
+[1.006s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.006s] -- Detecting CXX compile features
+[1.006s] -- Detecting CXX compile features - done
+[1.006s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.049s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.212s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.703s] -- Configuring done (1.6s)
+[1.704s] -- Generating done (0.0s)
+[1.707s] -- Build files have been written to: /home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2
+[1.720s] Invoked command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake /home/cardaver/turtlebot3_ws/src/turtlebot3/turtlebot3_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2
+[1.722s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake --build /home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2 -- -j16 -l16
+[1.813s] Invoked command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake --build /home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2 -- -j16 -l16
+[1.815s] Invoking command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake --install /home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2
+[1.834s] -- Install configuration: ""
+[1.834s] -- Execute custom install script
+[1.834s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[1.852s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+[1.870s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+[1.883s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[1.896s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger_cam.yaml
+[1.909s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger.yaml
+[1.927s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger_cam.yaml
+[1.939s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle.yaml
+[1.960s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle_pi.yaml
+[2.002s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[2.017s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[2.044s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[2.127s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[2.183s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[2.221s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[2.280s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[2.318s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[2.376s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[2.415s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[2.448s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[2.474s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[2.500s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[2.538s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[2.565s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[2.603s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[2.650s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[2.696s] -- Symlinking: /home/cardaver/turtlebot3_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[2.715s] Invoked command in '/home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cardaver/turtlebot3_ws/install/wielokaty:/home/cardaver/turtlebot3_ws/install/turtlebot3_teleop:/home/cardaver/turtlebot3_ws/install/turtlebot3_example:/home/cardaver/turtlebot3_ws/install/moving_nodes:/opt/ros/jazzy PS1=\[\033[01;32m\][\u@\h\[\033[01;37m\] \W\[\033[01;32m\]]\$\[\033[00m\] /usr/bin/cmake --install /home/cardaver/turtlebot3_ws/src/build/turtlebot3_navigation2
